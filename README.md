@@ -4,7 +4,7 @@
 - University Roll No.:1900290400009
 - Branch: Mechanical engineering 
 - Section:A
-- Preferred Programming Language: C++/Java/Python
+- Preferred Programming Language: C++/python
 
 ## Coding Profile 
 - LeetCode: [abhishekksolanki](https://leetcode.com/abhishekksolankin/)
